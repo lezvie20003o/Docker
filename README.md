@@ -57,5 +57,4 @@ Choose the version for your platform:
 
 Test your Docker installation with this simple command:
 
-```bash
-docker run hello-world
+
